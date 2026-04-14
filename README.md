@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Vergissmeinncht! 👋</h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vergissmeinncht&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/Vergissmeinncht/count.svg" alt="Profile Views" />
 </div>
 
 <br />
@@ -33,11 +33,10 @@
 
 <div align="center">
   <a href="https://github.com/Vergissmeinncht">
-    <!-- 加上了 &cache_seconds=86400 和 &v=1 -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vergissmeinncht&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&cache_seconds=86400&v=1" alt="Vergissmeinncht's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.weijunext.com/api?username=Vergissmeinncht&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&v=1001" alt="Vergissmeinncht's GitHub Stats" />
   </a>
   <a href="https://github.com/Vergissmeinncht">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vergissmeinncht&layout=compact&theme=radical&border_radius=10&hide_border=true&cache_seconds=86400&v=1" alt="Vergissmeinncht's Top Languages" />
+    <img height="180em" src="https://github-readme-stats.weijunext.com/api/top-langs/?username=Vergissmeinncht&layout=compact&theme=radical&border_radius=10&hide_border=true&v=1001" alt="Vergissmeinncht's Top Languages" />
   </a>
 </div>
 
