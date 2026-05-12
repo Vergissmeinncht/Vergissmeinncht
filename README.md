@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-*(请根据你实际的技能修改上面的徽章哦！)*
 
 ---
 
